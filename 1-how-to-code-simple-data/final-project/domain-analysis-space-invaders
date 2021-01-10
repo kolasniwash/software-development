@@ -1,0 +1,36 @@
+Design Analysis
+
+
+Constants
+
+MTS - play area
+HEIGHT - screen height
+WIDTH - screen width
+
+TANK - tank image
+ALIEN - alien ship image
+BLASTER - blaster shot from tank
+
+TANK-Y - tank's Y position
+ALIEN-X-SPEED - alien speed in X direction
+ALIEN-Y-SPEED - alien speed in y direction
+
+BLASTER-Y-SPEED - speed of blaster shot from tank
+
+
+Variables
+
+BLASTER-X - blaster x position
+BLASTER-Y - blaster y position
+
+TANK-X - tank x position
+
+ALIEN-X - alien ship y position
+ALIEN-Y - alien ship x position
+
+Big Bang options
+
+to-draw
+on-tick
+on-key
+stop-when
