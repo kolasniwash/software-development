@@ -1,0 +1,10 @@
+Abstraction Notes Wk9
+
+- abstraction from examples works in the opposite order of developing a function
+	- function definition first
+	- then tests
+	- then signature etc
+	
+- higher order function
+	-can consume one or more functions as parameters
+	- and produce a function
