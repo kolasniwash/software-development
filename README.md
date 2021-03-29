@@ -15,7 +15,7 @@ Coursework and projects from the University of British Colombia software develop
 
 ## Final Projects
 
-### How To Code: Simple Data
+### 1. Space Invaders
 Final project for this course was to implement a simplified version of Space Invaders in the DrRacket BSL language. Program uses simple data structures such as atomic, compositions, and lists along with recusion.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](1-how-to-code-simple-data/final-project/img/invaders-1.png?raw=true)
